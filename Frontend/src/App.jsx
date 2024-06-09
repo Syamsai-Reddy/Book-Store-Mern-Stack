@@ -1,10 +1,10 @@
 
 import {Route , Routes} from "react-router-dom"
-import Home from 'c:/Users/Dell/Desktop/BookStore mearn stack/Frontend/src/Pages/Home';
-import CreateBook from 'c:/Users/Dell/Desktop/BookStore mearn stack/Frontend/src/Pages/CreateBook';
-import ShowBook from 'c:/Users/Dell/Desktop/BookStore mearn stack/Frontend/src/Pages/ShowBook';
-import EditBook from 'c:/Users/Dell/Desktop/BookStore mearn stack/Frontend/src/Pages/EditBook';
-import DeleteBook from 'c:/Users/Dell/Desktop/BookStore mearn stack/Frontend/src/Pages/DeleteBook';
+import Home from './Pages/Home';
+import CreateBook from './Pages/CreateBook';
+import ShowBook from './Pages/ShowBook';
+import EditBook from './Pages/EditBook';
+import DeleteBook from './Pages/DeleteBook';
 
 const App = () => {
   return (
